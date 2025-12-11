@@ -4,7 +4,7 @@
 }
 
 .colour-border{
-  border: 3px solid orangered;
+  border: 3px solid darkblue;
   padding: 10px;
 }
 
@@ -14,5 +14,5 @@
 
 body{
   padding: 10px;
-  background-color: lightblue;
+  background-color: yellow;
 }
