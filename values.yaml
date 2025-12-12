@@ -1,2 +1,2 @@
 image: radian601/vat:<+pipeline.sequenceId>
-replicas: 4
+replicas: 10
